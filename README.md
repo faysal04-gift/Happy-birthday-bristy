@@ -1,2 +1,1 @@
-# Happy-birthday-bristy
-hhh
+# study-bd
